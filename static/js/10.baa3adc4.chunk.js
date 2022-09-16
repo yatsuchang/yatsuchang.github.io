@@ -1,2 +1,0 @@
-(this["webpackJsonppolyplay-admin"]=this["webpackJsonppolyplay-admin"]||[]).push([[10],{1423:function(n,e,a){"use strict";a.r(e);var t=a(354),l=a(357),i=a(109),o=a(7),c=Object(t.a)((function(n){return{root:{},label:{color:n.colors.white,fontSize:32,fontWeight:600,margin:"40px 0"}}}));e.default=function(){var n=c();return Object(o.jsx)(i.d,{children:Object(o.jsx)(l.a,{align:"center",className:n.label,children:"PolyPlay Admin Panel"})})}}}]);
-//# sourceMappingURL=10.baa3adc4.chunk.js.map
