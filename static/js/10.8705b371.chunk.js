@@ -1,0 +1,2 @@
+(this["webpackJsonppolyplay-admin"]=this["webpackJsonppolyplay-admin"]||[]).push([[10],{1423:function(e,n,t){"use strict";t.r(n);var a=t(354),i=t(357),l=t(109),o=t(7),c=Object(a.a)((function(e){return{root:{},label:{color:e.colors.white,fontSize:32,fontWeight:600,margin:"40px 0"}}}));n.default=function(){var e=c();return Object(o.jsx)(l.d,{children:Object(o.jsx)(i.a,{align:"center",className:e.label,children:"LegioDAO Admin Panel v0.7.1124"})})}}}]);
+//# sourceMappingURL=10.8705b371.chunk.js.map
